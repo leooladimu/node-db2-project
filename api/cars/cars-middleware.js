@@ -8,7 +8,7 @@ const checkCarPayload = (req, res, next) => {
 
 const checkVinNumberValid = (req, res, next) => {
   // DO YOUR MAGIC
-}
+};
 
 const checkVinNumberUnique = (req, res, next) => {
   // DO YOUR MAGIC
